@@ -1,2 +1,2 @@
 for i in range(10):
-    print(i+" Love ")
+    print(i+" Love! ")
